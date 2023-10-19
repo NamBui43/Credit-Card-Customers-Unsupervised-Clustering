@@ -8,4 +8,17 @@ The dataset used in this project contains credit card customer's information col
 ## Modelling
 K-means Clustering algorithm is used for this project. 
 
-K-means clustering is a partitioning technique that groups data points into K distinct, non-overlapping clusters, where each data point belongs to the cluster with the nearest mean.
+K-means Clustering is a partitioning technique that groups data points into K distinct, non-overlapping clusters, where each data point belongs to the cluster with the nearest mean.
+
+## Requirments
+The code for this project was written in Python 3.8 and requires the following libraries:
+- Pandas
+- Numpy
+- Sklearn
+- Matplotlib
+- Seaborn
+- yellowbrick
+- mpl_toolkits
+
+## Usage
+To run the project, clone the repository and run the Jupyter Notebook file.
