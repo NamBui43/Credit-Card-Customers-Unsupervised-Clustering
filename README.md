@@ -1,1 +1,1 @@
-# Credit-Card-Customer-Segmentation-Clustering
+# Credit Card Customer Segmentation: Clustering
