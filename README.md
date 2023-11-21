@@ -1,5 +1,5 @@
 # Credit Card Customer Segmentation: Clustering
-Link to my Kaggle notebook of the project: [credit-card-customers-segmentation-clustering](https://www.kaggle.com/code/nambui433/credit-card-customers-segmentation-clustering)](https://www.kaggle.com/code/nambui433/credit-card-customers-segmentation-clustering)
+Link to my Kaggle notebook of the project: [https://www.kaggle.com/code/nambui433/credit-card-customers-segmentation-clustering](https://www.kaggle.com/code/nambui433/credit-card-customers-segmentation-clustering)
 
 ## Introduction
 In this project, I perform unsupervised clustering on credit card customers using their records from the credit card provider's database. Credit card customers are categorized into groups that share similar significant features, thereby helping the credit card provider develop specialized customer strategies and targeted measures for each group of customers. 
